@@ -1,0 +1,1321 @@
+08.05.2020 07:29:26: Received Request!
+08.05.2020 07:29:26: Method: GET
+08.05.2020 07:29:26: Path: /api/students
+08.05.2020 07:29:26: Query: 
+08.05.2020 07:29:26: BodyString: 
+08.05.2020 07:30:05: Received Request!
+08.05.2020 07:30:05: Method: POST
+08.05.2020 07:30:05: Path: /api/enrollments/
+08.05.2020 07:30:05: Query: 
+08.05.2020 07:30:05: BodyString: {
+"IndexNumber": "s1234", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka"
+}
+===================Received Request!===================
+22.05.2020 07:07:19: Method: GET
+22.05.2020 07:07:19: Path: /api/students
+22.05.2020 07:07:19: Query: 
+22.05.2020 07:07:19: BodyString: 
+===================Received Request!===================
+22.05.2020 07:07:20: Method: GET
+22.05.2020 07:07:20: Path: /favicon.ico
+22.05.2020 07:07:20: Query: 
+22.05.2020 07:07:20: BodyString: 
+===================Received Request!===================
+22.05.2020 07:21:59: Method: GET
+22.05.2020 07:21:59: Path: /api/students
+22.05.2020 07:21:59: Query: 
+22.05.2020 07:21:59: BodyString: 
+===================Received Request!===================
+22.05.2020 07:21:59: Method: GET
+22.05.2020 07:21:59: Path: /favicon.ico
+22.05.2020 07:21:59: Query: 
+22.05.2020 07:21:59: BodyString: 
+===================Received Request!===================
+22.05.2020 07:22:33: Method: GET
+22.05.2020 07:22:33: Path: /api/students
+22.05.2020 07:22:33: Query: 
+22.05.2020 07:22:33: BodyString: 
+===================Received Request!===================
+22.05.2020 07:22:33: Method: GET
+22.05.2020 07:22:33: Path: /favicon.ico
+22.05.2020 07:22:33: Query: 
+22.05.2020 07:22:33: BodyString: 
+===================Received Request!===================
+22.05.2020 07:25:34: Method: GET
+22.05.2020 07:25:34: Path: /api/students
+22.05.2020 07:25:34: Query: 
+22.05.2020 07:25:34: BodyString: 
+===================Received Request!===================
+22.05.2020 07:25:34: Method: GET
+22.05.2020 07:25:34: Path: /favicon.ico
+22.05.2020 07:25:34: Query: 
+22.05.2020 07:25:34: BodyString: 
+===================Received Request!===================
+22.05.2020 07:27:32: Method: GET
+22.05.2020 07:27:32: Path: /api/students/login
+22.05.2020 07:27:32: Query: 
+22.05.2020 07:27:32: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:28:08: Method: GET
+22.05.2020 07:28:08: Path: /api/students/login
+22.05.2020 07:28:08: Query: 
+22.05.2020 07:28:08: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:28:26: Method: GET
+22.05.2020 07:28:26: Path: /api/students/login
+22.05.2020 07:28:26: Query: 
+22.05.2020 07:28:26: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:29:18: Method: POST
+22.05.2020 07:29:18: Path: /api/students/login
+22.05.2020 07:29:18: Query: 
+22.05.2020 07:29:18: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:31:33: Method: GET
+22.05.2020 07:31:33: Path: /api/students
+22.05.2020 07:31:33: Query: 
+22.05.2020 07:31:33: BodyString: 
+===================Received Request!===================
+22.05.2020 07:31:33: Method: GET
+22.05.2020 07:31:33: Path: /favicon.ico
+22.05.2020 07:31:33: Query: 
+22.05.2020 07:31:33: BodyString: 
+===================Received Request!===================
+22.05.2020 07:31:36: Method: POST
+22.05.2020 07:31:36: Path: /api/students/login
+22.05.2020 07:31:36: Query: 
+22.05.2020 07:31:36: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:36:01: Method: GET
+22.05.2020 07:36:01: Path: /api/students
+22.05.2020 07:36:01: Query: 
+22.05.2020 07:36:01: BodyString: 
+===================Received Request!===================
+22.05.2020 07:36:01: Method: GET
+22.05.2020 07:36:01: Path: /favicon.ico
+22.05.2020 07:36:01: Query: 
+22.05.2020 07:36:01: BodyString: 
+===================Received Request!===================
+22.05.2020 07:36:10: Method: POST
+22.05.2020 07:36:10: Path: /api/students/login
+22.05.2020 07:36:10: Query: 
+22.05.2020 07:36:10: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:36:23: Method: POST
+22.05.2020 07:36:23: Path: /api/students/login
+22.05.2020 07:36:23: Query: 
+22.05.2020 07:36:23: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password121"
+	
+}
+===================Received Request!===================
+22.05.2020 07:36:27: Method: POST
+22.05.2020 07:36:27: Path: /api/students/login
+22.05.2020 07:36:27: Query: 
+22.05.2020 07:36:27: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:37:38: Method: POST
+22.05.2020 07:37:38: Path: /api/enrollments/
+22.05.2020 07:37:38: Query: 
+22.05.2020 07:37:38: BodyString: {
+"IndexNumber": "s1234", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka"
+}
+===================Received Request!===================
+22.05.2020 07:37:49: Method: POST
+22.05.2020 07:37:49: Path: /api/enrollments/
+22.05.2020 07:37:49: Query: 
+22.05.2020 07:37:49: BodyString: {
+"IndexNumber": "s1234", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka"
+}
+===================Received Request!===================
+22.05.2020 07:38:32: Method: POST
+22.05.2020 07:38:32: Path: /api/enrollments/
+22.05.2020 07:38:32: Query: 
+22.05.2020 07:38:32: BodyString: {
+"IndexNumber": "s1234", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka"
+}
+===================Received Request!===================
+22.05.2020 07:42:36: Method: GET
+22.05.2020 07:42:36: Path: /api/students
+22.05.2020 07:42:36: Query: 
+22.05.2020 07:42:36: BodyString: 
+===================Received Request!===================
+22.05.2020 07:42:36: Method: GET
+22.05.2020 07:42:36: Path: /favicon.ico
+22.05.2020 07:42:36: Query: 
+22.05.2020 07:42:36: BodyString: 
+===================Received Request!===================
+22.05.2020 07:43:50: Method: GET
+22.05.2020 07:43:50: Path: /api/students/s12243
+22.05.2020 07:43:50: Query: 
+22.05.2020 07:43:50: BodyString: 
+{
+	"IdStudent": 1,
+	"FirstName": "Jan",
+	"LastName": "Kowalski"
+	
+}
+===================Received Request!===================
+22.05.2020 07:43:58: Method: GET
+22.05.2020 07:43:58: Path: /api/students/s12243
+22.05.2020 07:43:58: Query: 
+22.05.2020 07:43:58: BodyString: 
+{
+	"IdStudent": 1,
+	"FirstName": "Jan",
+	"LastName": "Kowalski"
+	
+}
+===================Received Request!===================
+22.05.2020 07:44:20: Method: GET
+22.05.2020 07:44:20: Path: /api/students/s12243
+22.05.2020 07:44:20: Query: 
+22.05.2020 07:44:20: BodyString: 
+
+===================Received Request!===================
+22.05.2020 07:45:15: Method: GET
+22.05.2020 07:45:15: Path: /api/students/s12243
+22.05.2020 07:45:15: Query: 
+22.05.2020 07:45:15: BodyString: 
+{
+	"id":"s11223"
+}
+===================Received Request!===================
+22.05.2020 07:45:24: Method: GET
+22.05.2020 07:45:24: Path: /api/students/s12243
+22.05.2020 07:45:24: Query: ?id=s11223
+22.05.2020 07:45:24: BodyString: 
+{
+	"id":"s11223"
+}
+===================Received Request!===================
+22.05.2020 07:45:34: Method: POST
+22.05.2020 07:45:34: Path: /api/students/login
+22.05.2020 07:45:34: Query: 
+22.05.2020 07:45:34: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:45:47: Method: GET
+22.05.2020 07:45:47: Path: /api/students/s12243
+22.05.2020 07:45:47: Query: ?id=s11223
+22.05.2020 07:45:47: BodyString: 
+{
+	"id":"s11223"
+}
+===================Received Request!===================
+22.05.2020 07:46:16: Method: GET
+22.05.2020 07:46:16: Path: /api/students/s12243
+22.05.2020 07:46:16: Query: ?
+22.05.2020 07:46:16: BodyString: 
+{
+	"id":"s11223"
+}
+===================Received Request!===================
+22.05.2020 07:46:55: Method: GET
+22.05.2020 07:46:55: Path: /api/students/s12243
+22.05.2020 07:46:55: Query: ?Index=s11223
+22.05.2020 07:46:55: BodyString: 
+{
+	"id":"s11223"
+}
+===================Received Request!===================
+22.05.2020 07:47:15: Method: GET
+22.05.2020 07:47:15: Path: /api/students/s12243
+22.05.2020 07:47:15: Query: ?Index=s11223
+22.05.2020 07:47:15: BodyString: 
+{
+	"id":"s11223"
+}
+===================Received Request!===================
+22.05.2020 07:47:18: Method: GET
+22.05.2020 07:47:18: Path: /api/students/s12243
+22.05.2020 07:47:18: Query: ?Index=s11223
+22.05.2020 07:47:18: BodyString: 
+{
+	"id":"s11223"
+}
+===================Received Request!===================
+22.05.2020 07:47:25: Method: GET
+22.05.2020 07:47:25: Path: /api/students/s12243
+22.05.2020 07:47:25: Query: 
+22.05.2020 07:47:25: BodyString: 
+{
+	"id":"s11223"
+}
+===================Received Request!===================
+22.05.2020 07:47:30: Method: GET
+22.05.2020 07:47:30: Path: /api/students/s12243
+22.05.2020 07:47:30: Query: 
+22.05.2020 07:47:30: BodyString: 
+===================Received Request!===================
+22.05.2020 07:47:34: Method: POST
+22.05.2020 07:47:34: Path: /api/students/login
+22.05.2020 07:47:34: Query: 
+22.05.2020 07:47:34: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:47:49: Method: GET
+22.05.2020 07:47:49: Path: /api/students/s12243
+22.05.2020 07:47:49: Query: 
+22.05.2020 07:47:49: BodyString: 
+===================Received Request!===================
+22.05.2020 07:49:03: Method: GET
+22.05.2020 07:49:03: Path: /api/students
+22.05.2020 07:49:03: Query: 
+22.05.2020 07:49:03: BodyString: 
+===================Received Request!===================
+22.05.2020 07:49:03: Method: GET
+22.05.2020 07:49:03: Path: /favicon.ico
+22.05.2020 07:49:03: Query: 
+22.05.2020 07:49:03: BodyString: 
+===================Received Request!===================
+22.05.2020 07:49:07: Method: POST
+22.05.2020 07:49:07: Path: /api/students/login
+22.05.2020 07:49:07: Query: 
+22.05.2020 07:49:07: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:49:16: Method: GET
+22.05.2020 07:49:16: Path: /api/students/s12243
+22.05.2020 07:49:16: Query: 
+22.05.2020 07:49:16: BodyString: 
+===================Received Request!===================
+22.05.2020 07:49:38: Method: GET
+22.05.2020 07:49:38: Path: /api/students
+22.05.2020 07:49:38: Query: 
+22.05.2020 07:49:38: BodyString: 
+===================Received Request!===================
+22.05.2020 07:49:38: Method: GET
+22.05.2020 07:49:38: Path: /favicon.ico
+22.05.2020 07:49:38: Query: 
+22.05.2020 07:49:38: BodyString: 
+===================Received Request!===================
+22.05.2020 07:49:46: Method: POST
+22.05.2020 07:49:46: Path: /api/students/login
+22.05.2020 07:49:46: Query: 
+22.05.2020 07:49:46: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:49:55: Method: GET
+22.05.2020 07:49:55: Path: /api/students/s12243
+22.05.2020 07:49:55: Query: 
+22.05.2020 07:49:55: BodyString: 
+===================Received Request!===================
+22.05.2020 07:50:06: Method: POST
+22.05.2020 07:50:06: Path: /api/students/login
+22.05.2020 07:50:06: Query: 
+22.05.2020 07:50:06: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:50:40: Method: POST
+22.05.2020 07:50:40: Path: /api/students/refreshToken
+22.05.2020 07:50:40: Query: 
+22.05.2020 07:50:40: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+22.05.2020 07:52:56: Method: GET
+22.05.2020 07:52:56: Path: /api/students
+22.05.2020 07:52:56: Query: 
+22.05.2020 07:52:56: BodyString: 
+===================Received Request!===================
+22.05.2020 07:52:56: Method: GET
+22.05.2020 07:52:56: Path: /favicon.ico
+22.05.2020 07:52:56: Query: 
+22.05.2020 07:52:56: BodyString: 
+===================Received Request!===================
+22.05.2020 07:53:03: Method: POST
+22.05.2020 07:53:03: Path: /api/students/login
+22.05.2020 07:53:03: Query: 
+22.05.2020 07:53:03: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:53:25: Method: POST
+22.05.2020 07:53:25: Path: /api/students/refreshToken
+22.05.2020 07:53:25: Query: ?request=eNT7NVqS1U+GBT8aJZmzFQ==
+22.05.2020 07:53:25: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+22.05.2020 07:55:47: Method: GET
+22.05.2020 07:55:47: Path: /api/students
+22.05.2020 07:55:47: Query: 
+22.05.2020 07:55:47: BodyString: 
+===================Received Request!===================
+22.05.2020 07:55:47: Method: GET
+22.05.2020 07:55:47: Path: /favicon.ico
+22.05.2020 07:55:47: Query: 
+22.05.2020 07:55:47: BodyString: 
+===================Received Request!===================
+22.05.2020 07:55:49: Method: POST
+22.05.2020 07:55:49: Path: /api/students/refreshToken
+22.05.2020 07:55:49: Query: ?request=eNT7NVqS1U+GBT8aJZmzFQ==
+22.05.2020 07:55:49: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+22.05.2020 07:56:22: Method: POST
+22.05.2020 07:56:22: Path: /api/students/refreshToken
+22.05.2020 07:56:22: Query: ?request=%27eNT7NVqS1U+GBT8aJZmzFQ==%27
+22.05.2020 07:56:22: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+22.05.2020 07:56:32: Method: POST
+22.05.2020 07:56:32: Path: /api/students/login
+22.05.2020 07:56:32: Query: 
+22.05.2020 07:56:32: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:56:35: Method: POST
+22.05.2020 07:56:35: Path: /api/students/login
+22.05.2020 07:56:35: Query: 
+22.05.2020 07:56:35: BodyString: 
+{
+	"Index":"s11223",
+	"Password":"password120"
+	
+}
+===================Received Request!===================
+22.05.2020 07:56:46: Method: POST
+22.05.2020 07:56:46: Path: /api/students/refreshToken
+22.05.2020 07:56:46: Query: ?request=WOVUK0LjWUCEjY9rXeqHpw==
+22.05.2020 07:56:46: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+22.05.2020 07:59:45: Method: GET
+22.05.2020 07:59:45: Path: /api/students
+22.05.2020 07:59:45: Query: 
+22.05.2020 07:59:45: BodyString: 
+===================Received Request!===================
+22.05.2020 07:59:45: Method: GET
+22.05.2020 07:59:45: Path: /favicon.ico
+22.05.2020 07:59:45: Query: 
+22.05.2020 07:59:45: BodyString: 
+===================Received Request!===================
+23.05.2020 02:59:37: Method: GET
+23.05.2020 02:59:37: Path: /api/students
+23.05.2020 02:59:37: Query: 
+23.05.2020 02:59:37: BodyString: 
+===================Received Request!===================
+23.05.2020 02:59:38: Method: GET
+23.05.2020 02:59:38: Path: /favicon.ico
+23.05.2020 02:59:38: Query: 
+23.05.2020 02:59:38: BodyString: 
+===================Received Request!===================
+31.05.2020 06:57:23: Method: GET
+31.05.2020 06:57:23: Path: /api/students
+31.05.2020 06:57:23: Query: 
+31.05.2020 06:57:23: BodyString: 
+===================Received Request!===================
+31.05.2020 06:57:40: Method: GET
+31.05.2020 06:57:40: Path: /favicon.ico
+31.05.2020 06:57:40: Query: 
+31.05.2020 06:57:40: BodyString: 
+===================Received Request!===================
+31.05.2020 06:58:05: Method: GET
+31.05.2020 06:58:05: Path: /api/studentsEntity
+31.05.2020 06:58:05: Query: 
+31.05.2020 06:58:05: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+31.05.2020 07:00:45: Method: GET
+31.05.2020 07:00:45: Path: /api/studentsEntity
+31.05.2020 07:00:45: Query: 
+31.05.2020 07:00:45: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+31.05.2020 07:01:00: Method: GET
+31.05.2020 07:01:00: Path: /api/students
+31.05.2020 07:01:00: Query: 
+31.05.2020 07:01:00: BodyString: 
+===================Received Request!===================
+31.05.2020 07:01:02: Method: GET
+31.05.2020 07:01:02: Path: /favicon.ico
+31.05.2020 07:01:02: Query: 
+31.05.2020 07:01:02: BodyString: 
+===================Received Request!===================
+31.05.2020 07:01:16: Method: GET
+31.05.2020 07:01:16: Path: /api/studentsEntity
+31.05.2020 07:01:16: Query: 
+31.05.2020 07:01:16: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+31.05.2020 07:02:23: Method: GET
+31.05.2020 07:02:23: Path: /api/students
+31.05.2020 07:02:23: Query: 
+31.05.2020 07:02:23: BodyString: 
+===================Received Request!===================
+31.05.2020 07:02:24: Method: GET
+31.05.2020 07:02:24: Path: /favicon.ico
+31.05.2020 07:02:24: Query: 
+31.05.2020 07:02:24: BodyString: 
+===================Received Request!===================
+31.05.2020 07:02:25: Method: GET
+31.05.2020 07:02:25: Path: /api/studentsEntity
+31.05.2020 07:02:25: Query: 
+31.05.2020 07:02:25: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+31.05.2020 07:02:46: Method: GET
+31.05.2020 07:02:46: Path: /api/studentEntity
+31.05.2020 07:02:46: Query: 
+31.05.2020 07:02:46: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+31.05.2020 07:06:08: Method: GET
+31.05.2020 07:06:08: Path: /api/students
+31.05.2020 07:06:08: Query: 
+31.05.2020 07:06:08: BodyString: 
+===================Received Request!===================
+31.05.2020 07:06:09: Method: GET
+31.05.2020 07:06:09: Path: /api/studentEntity
+31.05.2020 07:06:09: Query: 
+31.05.2020 07:06:09: BodyString: 
+{
+	"request":"6Mlb2z5IOEu0BHzTXfnIhA=="
+	
+}
+===================Received Request!===================
+31.05.2020 07:11:05: Method: GET
+31.05.2020 07:11:05: Path: /api/students
+31.05.2020 07:11:05: Query: 
+31.05.2020 07:11:05: BodyString: 
+===================Received Request!===================
+31.05.2020 07:19:49: Method: GET
+31.05.2020 07:19:49: Path: /api/students
+31.05.2020 07:19:49: Query: 
+31.05.2020 07:19:49: BodyString: 
+===================Received Request!===================
+31.05.2020 07:20:04: Method: POST
+31.05.2020 07:20:04: Path: /api/studentEntity
+31.05.2020 07:20:04: Query: 
+31.05.2020 07:20:04: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Jan",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+31.05.2020 07:28:54: Method: GET
+31.05.2020 07:28:54: Path: /api/students
+31.05.2020 07:28:54: Query: 
+31.05.2020 07:28:54: BodyString: 
+===================Received Request!===================
+31.05.2020 07:29:10: Method: POST
+31.05.2020 07:29:10: Path: /api/studentEntity
+31.05.2020 07:29:10: Query: 
+31.05.2020 07:29:10: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+31.05.2020 07:29:17: Method: GET
+31.05.2020 07:29:17: Path: /api/studentEntity
+31.05.2020 07:29:17: Query: 
+31.05.2020 07:29:17: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 03:47:49: Method: GET
+01.06.2020 03:47:49: Path: /api/students
+01.06.2020 03:47:49: Query: 
+01.06.2020 03:47:49: BodyString: 
+===================Received Request!===================
+01.06.2020 03:47:50: Method: GET
+01.06.2020 03:47:50: Path: /favicon.ico
+01.06.2020 03:47:50: Query: 
+01.06.2020 03:47:50: BodyString: 
+===================Received Request!===================
+01.06.2020 03:48:44: Method: POST
+01.06.2020 03:48:44: Path: /api/studentEntity
+01.06.2020 03:48:44: Query: ?index=s11223
+01.06.2020 03:48:44: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 03:49:02: Method: POST
+01.06.2020 03:49:02: Path: /api/studentEntity
+01.06.2020 03:49:02: Query: 
+01.06.2020 03:49:02: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 03:49:30: Method: POST
+01.06.2020 03:49:30: Path: /api/studentEntity
+01.06.2020 03:49:30: Query: 
+01.06.2020 03:49:30: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 03:49:41: Method: POST
+01.06.2020 03:49:41: Path: /api/studentEntity
+01.06.2020 03:49:41: Query: 
+01.06.2020 03:49:41: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 03:50:06: Method: GET
+01.06.2020 03:50:06: Path: /api/studentEntity
+01.06.2020 03:50:06: Query: 
+01.06.2020 03:50:06: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 03:50:14: Method: POST
+01.06.2020 03:50:14: Path: /api/studentEntity
+01.06.2020 03:50:14: Query: 
+01.06.2020 03:50:14: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 03:51:04: Method: POST
+01.06.2020 03:51:04: Path: /api/studentEntity
+01.06.2020 03:51:04: Query: ?index=s11223
+01.06.2020 03:51:04: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 08:54:19: Method: GET
+01.06.2020 08:54:19: Path: /api/students
+01.06.2020 08:54:19: Query: 
+01.06.2020 08:54:19: BodyString: 
+===================Received Request!===================
+01.06.2020 08:55:28: Method: POST
+01.06.2020 08:55:28: Path: /api/studentEntity/update
+01.06.2020 08:55:28: Query: ?index=s11223
+01.06.2020 08:55:28: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 08:57:06: Method: GET
+01.06.2020 08:57:06: Path: /api/studentEntity
+01.06.2020 08:57:06: Query: 
+01.06.2020 08:57:06: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 08:57:17: Method: POST
+01.06.2020 08:57:17: Path: /api/studentEntity/update
+01.06.2020 08:57:17: Query: ?index=11223
+01.06.2020 08:57:17: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 08:57:28: Method: POST
+01.06.2020 08:57:28: Path: /api/studentEntity/update
+01.06.2020 08:57:28: Query: ?index=11223
+01.06.2020 08:57:28: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 08:59:31: Method: GET
+01.06.2020 08:59:31: Path: /api/students
+01.06.2020 08:59:31: Query: 
+01.06.2020 08:59:31: BodyString: 
+===================Received Request!===================
+01.06.2020 08:59:35: Method: POST
+01.06.2020 08:59:35: Path: /api/studentEntity/update
+01.06.2020 08:59:35: Query: ?index=11223
+01.06.2020 08:59:35: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:00:04: Method: POST
+01.06.2020 09:00:04: Path: /api/studentEntity/update
+01.06.2020 09:00:04: Query: ?index=11223
+01.06.2020 09:00:04: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:02:10: Method: GET
+01.06.2020 09:02:10: Path: /api/students
+01.06.2020 09:02:10: Query: 
+01.06.2020 09:02:10: BodyString: 
+===================Received Request!===================
+01.06.2020 09:02:22: Method: POST
+01.06.2020 09:02:22: Path: /api/studentEntity/update
+01.06.2020 09:02:22: Query: ?Index=11223
+01.06.2020 09:02:22: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:03:59: Method: GET
+01.06.2020 09:03:59: Path: /api/students
+01.06.2020 09:03:59: Query: 
+01.06.2020 09:03:59: BodyString: 
+===================Received Request!===================
+01.06.2020 09:04:03: Method: POST
+01.06.2020 09:04:03: Path: /api/studentEntity/update
+01.06.2020 09:04:03: Query: ?Index=11223
+01.06.2020 09:04:03: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:04:13: Method: POST
+01.06.2020 09:04:13: Path: /api/studentEntity/update
+01.06.2020 09:04:13: Query: ?Index=11223
+01.06.2020 09:04:13: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:05:58: Method: GET
+01.06.2020 09:05:58: Path: /api/students
+01.06.2020 09:05:58: Query: 
+01.06.2020 09:05:58: BodyString: 
+===================Received Request!===================
+01.06.2020 09:06:11: Method: GET
+01.06.2020 09:06:11: Path: /api/students
+01.06.2020 09:06:11: Query: 
+01.06.2020 09:06:11: BodyString: 
+===================Received Request!===================
+01.06.2020 09:06:13: Method: POST
+01.06.2020 09:06:13: Path: /api/studentEntity/update
+01.06.2020 09:06:13: Query: ?Index=11223
+01.06.2020 09:06:13: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:07:22: Method: POST
+01.06.2020 09:07:22: Path: /api/studentEntity/update
+01.06.2020 09:07:22: Query: ?Index=11223
+01.06.2020 09:07:22: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:08:48: Method: GET
+01.06.2020 09:08:48: Path: /api/students
+01.06.2020 09:08:48: Query: 
+01.06.2020 09:08:48: BodyString: 
+===================Received Request!===================
+01.06.2020 09:08:51: Method: POST
+01.06.2020 09:08:51: Path: /api/studentEntity/update
+01.06.2020 09:08:51: Query: ?Index=11223
+01.06.2020 09:08:51: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:09:13: Method: POST
+01.06.2020 09:09:13: Path: /api/studentEntity/update
+01.06.2020 09:09:13: Query: ?Index=s11223
+01.06.2020 09:09:13: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:11:40: Method: GET
+01.06.2020 09:11:40: Path: /api/students
+01.06.2020 09:11:40: Query: 
+01.06.2020 09:11:40: BodyString: 
+===================Received Request!===================
+01.06.2020 09:11:42: Method: POST
+01.06.2020 09:11:42: Path: /api/studentEntity/update
+01.06.2020 09:11:42: Query: ?Index=s11223
+01.06.2020 09:11:42: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:11:50: Method: GET
+01.06.2020 09:11:50: Path: /api/studentEntity
+01.06.2020 09:11:50: Query: 
+01.06.2020 09:11:50: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:12:10: Method: GET
+01.06.2020 09:12:10: Path: /api/studentEntity
+01.06.2020 09:12:10: Query: 
+01.06.2020 09:12:10: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:14:18: Method: GET
+01.06.2020 09:14:18: Path: /api/students
+01.06.2020 09:14:18: Query: 
+01.06.2020 09:14:18: BodyString: 
+===================Received Request!===================
+01.06.2020 09:14:27: Method: POST
+01.06.2020 09:14:27: Path: /api/studentEntity/update
+01.06.2020 09:14:27: Query: ?Index=s11223
+01.06.2020 09:14:27: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janekek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:14:31: Method: GET
+01.06.2020 09:14:31: Path: /api/studentEntity
+01.06.2020 09:14:31: Query: 
+01.06.2020 09:14:31: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:15:15: Method: GET
+01.06.2020 09:15:15: Path: /api/students
+01.06.2020 09:15:15: Query: 
+01.06.2020 09:15:15: BodyString: 
+===================Received Request!===================
+01.06.2020 09:15:17: Method: POST
+01.06.2020 09:15:17: Path: /api/studentEntity/update
+01.06.2020 09:15:17: Query: ?Index=s11223
+01.06.2020 09:15:17: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janekek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:16:21: Method: GET
+01.06.2020 09:16:21: Path: /api/students
+01.06.2020 09:16:21: Query: 
+01.06.2020 09:16:21: BodyString: 
+===================Received Request!===================
+01.06.2020 09:16:23: Method: POST
+01.06.2020 09:16:23: Path: /api/studentEntity/update
+01.06.2020 09:16:23: Query: ?Index=s11223
+01.06.2020 09:16:23: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janekek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:25:16: Method: GET
+01.06.2020 09:25:16: Path: /api/students
+01.06.2020 09:25:16: Query: 
+01.06.2020 09:25:16: BodyString: 
+===================Received Request!===================
+01.06.2020 09:25:26: Method: POST
+01.06.2020 09:25:26: Path: /api/studentEntity/update
+01.06.2020 09:25:26: Query: ?Index=s11223
+01.06.2020 09:25:26: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janekek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:35:51: Method: GET
+01.06.2020 09:35:51: Path: /api/students
+01.06.2020 09:35:51: Query: 
+01.06.2020 09:35:51: BodyString: 
+===================Received Request!===================
+01.06.2020 09:35:56: Method: POST
+01.06.2020 09:35:56: Path: /api/studentEntity/update
+01.06.2020 09:35:56: Query: ?Index=s11223
+01.06.2020 09:35:56: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:36:01: Method: GET
+01.06.2020 09:36:01: Path: /api/studentEntity
+01.06.2020 09:36:01: Query: 
+01.06.2020 09:36:01: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:39:29: Method: GET
+01.06.2020 09:39:29: Path: /api/students
+01.06.2020 09:39:29: Query: 
+01.06.2020 09:39:29: BodyString: 
+===================Received Request!===================
+01.06.2020 09:40:00: Method: GET
+01.06.2020 09:40:00: Path: /api/students
+01.06.2020 09:40:00: Query: 
+01.06.2020 09:40:00: BodyString: 
+===================Received Request!===================
+01.06.2020 09:40:09: Method: POST
+01.06.2020 09:40:09: Path: /api/studentEntity
+01.06.2020 09:40:09: Query: ?Index=s11223
+01.06.2020 09:40:09: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:41:10: Method: GET
+01.06.2020 09:41:10: Path: /api/students
+01.06.2020 09:41:10: Query: 
+01.06.2020 09:41:10: BodyString: 
+===================Received Request!===================
+01.06.2020 09:41:58: Method: POST
+01.06.2020 09:41:58: Path: /api/studentEntity/AddStudent
+01.06.2020 09:41:58: Query: 
+01.06.2020 09:41:58: BodyString:     {
+        "indexNumber": "s112234",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4,
+        "Pswd": "Jajko"
+    }
+===================Received Request!===================
+01.06.2020 09:42:49: Method: GET
+01.06.2020 09:42:49: Path: /api/students
+01.06.2020 09:42:49: Query: 
+01.06.2020 09:42:49: BodyString: 
+===================Received Request!===================
+01.06.2020 09:42:51: Method: POST
+01.06.2020 09:42:51: Path: /api/studentEntity/AddStudent
+01.06.2020 09:42:51: Query: 
+01.06.2020 09:42:51: BodyString:     {
+        "indexNumber": "s112234",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4,
+        "Pswd": "Jajko"
+    }
+===================Received Request!===================
+01.06.2020 09:42:55: Method: GET
+01.06.2020 09:42:55: Path: /api/studentEntity
+01.06.2020 09:42:55: Query: 
+01.06.2020 09:42:55: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:43:25: Method: DELETE
+01.06.2020 09:43:25: Path: /api/studentEntity/DeleteStudent
+01.06.2020 09:43:25: Query: ?index=s112234
+01.06.2020 09:43:25: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:43:46: Method: GET
+01.06.2020 09:43:46: Path: /api/students
+01.06.2020 09:43:46: Query: 
+01.06.2020 09:43:46: BodyString: 
+===================Received Request!===================
+01.06.2020 09:43:48: Method: DELETE
+01.06.2020 09:43:48: Path: /api/studentEntity/DeleteStudent
+01.06.2020 09:43:48: Query: ?index=s112234
+01.06.2020 09:43:48: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:43:53: Method: GET
+01.06.2020 09:43:53: Path: /api/studentEntity
+01.06.2020 09:43:53: Query: 
+01.06.2020 09:43:53: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:45:11: Method: GET
+01.06.2020 09:45:11: Path: /api/students
+01.06.2020 09:45:11: Query: 
+01.06.2020 09:45:11: BodyString: 
+===================Received Request!===================
+01.06.2020 09:45:42: Method: GET
+01.06.2020 09:45:42: Path: /api/studentEntity
+01.06.2020 09:45:42: Query: 
+01.06.2020 09:45:42: BodyString:     {
+        "indexNumber": "s11223",
+        "firstName": "Janek",
+        "lastName": "Kowalski",
+        "birthDate": "1994-10-21T00:00:00",
+        "idEnrollment": 4
+    }
+===================Received Request!===================
+01.06.2020 09:48:50: Method: POST
+01.06.2020 09:48:50: Path: /api/enrollments/promotions
+01.06.2020 09:48:50: Query: 
+01.06.2020 09:48:50: BodyString: {
+"Studies": "Grafika", "Semester": 1
+}
+===================Received Request!===================
+01.06.2020 09:49:48: Method: GET
+01.06.2020 09:49:48: Path: /api/students
+01.06.2020 09:49:48: Query: 
+01.06.2020 09:49:48: BodyString: 
+===================Received Request!===================
+01.06.2020 09:49:50: Method: POST
+01.06.2020 09:49:50: Path: /api/enrollments/promotions
+01.06.2020 09:49:50: Query: 
+01.06.2020 09:49:50: BodyString: {
+"Studies": "Grafika", "Semester": 1
+}
+===================Received Request!===================
+01.06.2020 09:50:17: Method: GET
+01.06.2020 09:50:17: Path: /api/students
+01.06.2020 09:50:17: Query: 
+01.06.2020 09:50:17: BodyString: 
+===================Received Request!===================
+01.06.2020 09:50:21: Method: POST
+01.06.2020 09:50:21: Path: /api/enrollments/promotions
+01.06.2020 09:50:21: Query: 
+01.06.2020 09:50:21: BodyString: {
+"Studies": "Grafika", "Semester": 1
+}
+===================Received Request!===================
+01.06.2020 09:52:23: Method: GET
+01.06.2020 09:52:23: Path: /api/students
+01.06.2020 09:52:23: Query: 
+01.06.2020 09:52:23: BodyString: 
+===================Received Request!===================
+01.06.2020 09:52:25: Method: POST
+01.06.2020 09:52:25: Path: /api/enrollments/promotions
+01.06.2020 09:52:25: Query: 
+01.06.2020 09:52:25: BodyString: {
+"Studies": "Grafika", "Semester": 1
+}
+===================Received Request!===================
+01.06.2020 09:55:20: Method: GET
+01.06.2020 09:55:20: Path: /api/students
+01.06.2020 09:55:20: Query: 
+01.06.2020 09:55:20: BodyString: 
+===================Received Request!===================
+01.06.2020 09:55:24: Method: POST
+01.06.2020 09:55:24: Path: /api/enrollments/promotions
+01.06.2020 09:55:24: Query: 
+01.06.2020 09:55:24: BodyString: {
+"Studies": "Grafika", "Semester": 1
+}
+===================Received Request!===================
+01.06.2020 10:24:28: Method: GET
+01.06.2020 10:24:28: Path: /api/students
+01.06.2020 10:24:28: Query: 
+01.06.2020 10:24:28: BodyString: 
+===================Received Request!===================
+01.06.2020 10:24:51: Method: POST
+01.06.2020 10:24:51: Path: /api/enrollments/
+01.06.2020 10:24:51: Query: 
+01.06.2020 10:24:51: BodyString: {
+"IndexNumber": "s12345", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka"
+}
+===================Received Request!===================
+01.06.2020 10:25:09: Method: POST
+01.06.2020 10:25:09: Path: /api/enrollments/
+01.06.2020 10:25:09: Query: 
+01.06.2020 10:25:09: BodyString: {
+"IndexNumber": "s12345", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka",
+"Password": "Azja"
+}
+===================Received Request!===================
+01.06.2020 10:25:42: Method: POST
+01.06.2020 10:25:42: Path: /api/enrollments/
+01.06.2020 10:25:42: Query: 
+01.06.2020 10:25:42: BodyString: {
+"IndexNumber": "s12345", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka",
+"Password": "Azja"
+}
+===================Received Request!===================
+01.06.2020 10:26:37: Method: POST
+01.06.2020 10:26:37: Path: /api/enrollments/
+01.06.2020 10:26:37: Query: 
+01.06.2020 10:26:37: BodyString: {
+"IndexNumber": "s12345", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka",
+"Password": "Azja"
+}
+===================Received Request!===================
+01.06.2020 10:27:20: Method: POST
+01.06.2020 10:27:20: Path: /api/enrollments/
+01.06.2020 10:27:20: Query: 
+01.06.2020 10:27:20: BodyString: {
+"IndexNumber": "s12345", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka",
+"Password": "Azja"
+}
+===================Received Request!===================
+01.06.2020 10:28:33: Method: GET
+01.06.2020 10:28:33: Path: /api/students
+01.06.2020 10:28:33: Query: 
+01.06.2020 10:28:33: BodyString: 
+===================Received Request!===================
+01.06.2020 10:28:37: Method: POST
+01.06.2020 10:28:37: Path: /api/enrollments/
+01.06.2020 10:28:37: Query: 
+01.06.2020 10:28:37: BodyString: {
+"IndexNumber": "s12345", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka",
+"Password": "Azja"
+}
+===================Received Request!===================
+01.06.2020 10:28:47: Method: POST
+01.06.2020 10:28:47: Path: /api/enrollments/
+01.06.2020 10:28:47: Query: 
+01.06.2020 10:28:47: BodyString: {
+"IndexNumber": "s12345", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka",
+"Password": "Azja"
+}
+===================Received Request!===================
+01.06.2020 10:31:03: Method: GET
+01.06.2020 10:31:03: Path: /api/students
+01.06.2020 10:31:03: Query: 
+01.06.2020 10:31:03: BodyString: 
+===================Received Request!===================
+05.06.2020 06:50:17: Method: GET
+05.06.2020 06:50:17: Path: /api/students
+05.06.2020 06:50:17: Query: 
+05.06.2020 06:50:17: BodyString: 
+===================Received Request!===================
+05.06.2020 06:50:54: Method: GET
+05.06.2020 06:50:54: Path: /api/students
+05.06.2020 06:50:54: Query: 
+05.06.2020 06:50:54: BodyString: 
